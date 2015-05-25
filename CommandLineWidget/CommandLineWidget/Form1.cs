@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 using System.Threading;
 using System.Diagnostics;
 
-namespace CommandLineGadget
+namespace CommandLineWidget
 {
     public partial class Form1 : Form
     {

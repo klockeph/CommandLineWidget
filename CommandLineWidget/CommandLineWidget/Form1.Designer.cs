@@ -1,4 +1,4 @@
-﻿namespace CommandLineGadget
+﻿namespace CommandLineWidget
 {
     partial class Form1
     {

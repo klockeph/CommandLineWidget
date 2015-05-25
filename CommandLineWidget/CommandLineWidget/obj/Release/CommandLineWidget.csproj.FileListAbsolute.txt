@@ -3,6 +3,7 @@ C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\obj\Re
 C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\obj\Release\CommandLineWidget.pdb
 C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\bin\Release\CommandLineWidget.exe
 C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\bin\Release\CommandLineWidget.pdb
-C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\obj\Release\CommandLineGadget.Form1.resources
 C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\obj\Release\CommandLineWidget.Properties.Resources.resources
 C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\obj\Release\CommandLineWidget.csproj.GenerateResource.Cache
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\obj\Release\CommandLineWidget.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\obj\Release\CommandLineWidget.Form1.resources
