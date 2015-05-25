@@ -1,0 +1,16 @@
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Release\CommandLineGadget.exe
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Release\ConsoleControl.dll
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Release\ConsoleControlAPI.dll
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Release\ConsoleControl.pdb
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Release\ConsoleControl.xml
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Release\ConsoleControlAPI.pdb
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Release\ConsoleControlAPI.xml
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\obj\Release\CommandLineGadget.Form1.resources
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\obj\Release\CommandLineGadget.csproj.GenerateResource.Cache
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineGadget\CommandLineGadget\bin\Release\CommandLineWidget.exe.config
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineGadget\CommandLineGadget\bin\Release\CommandLineWidget.exe
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineGadget\CommandLineGadget\bin\Release\CommandLineWidget.pdb
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineGadget\CommandLineGadget\obj\Release\CommandLineGadget.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineGadget\CommandLineGadget\obj\Release\CommandLineWidget.Properties.Resources.resources
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineGadget\CommandLineGadget\obj\Release\CommandLineWidget.exe
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineGadget\CommandLineGadget\obj\Release\CommandLineWidget.pdb

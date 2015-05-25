@@ -1,0 +1,15 @@
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Debug\CommandLineGadget.exe.config
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Debug\CommandLineGadget.exe
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Debug\CommandLineGadget.pdb
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\obj\Debug\CommandLineGadget.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\obj\Debug\CommandLineGadget.Properties.Resources.resources
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\obj\Debug\CommandLineGadget.csproj.GenerateResource.Cache
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\obj\Debug\CommandLineGadget.exe
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\obj\Debug\CommandLineGadget.pdb
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Debug\ConsoleControl.dll
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Debug\ConsoleControlAPI.dll
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Debug\ConsoleControl.pdb
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Debug\ConsoleControl.xml
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Debug\ConsoleControlAPI.pdb
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\bin\Debug\ConsoleControlAPI.xml
+C:\Users\Philipp\Documents\Scripts\C#\CommandLineGadget\CommandLineGadget\obj\Debug\CommandLineGadget.Form1.resources

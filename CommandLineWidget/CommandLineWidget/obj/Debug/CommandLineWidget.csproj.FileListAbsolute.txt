@@ -1,0 +1,8 @@
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\bin\Debug\CommandLineWidget.exe.config
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\bin\Debug\CommandLineWidget.exe
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\bin\Debug\CommandLineWidget.pdb
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\obj\Debug\CommandLineGadget.Form1.resources
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\obj\Debug\CommandLineWidget.Properties.Resources.resources
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\obj\Debug\CommandLineWidget.csproj.GenerateResource.Cache
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\obj\Debug\CommandLineWidget.exe
+C:\Users\Philipp\Documents\Scripts\c#\CommandLineWidget\CommandLineWidget\obj\Debug\CommandLineWidget.pdb
